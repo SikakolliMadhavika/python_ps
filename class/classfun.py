@@ -1513,6 +1513,17 @@ res = []
 #             temp[j], temp[j+1] = temp[j+1],temp[j]
 # print(temp)
 
-for i in arr:
-    res.append(temp.index(i)+1)
-print(res)
+# for i in arr:
+#     res.append(temp.index(i)+1)
+# print(res)
+
+# class Car :
+#     def __init__(self, color):
+#         self.color = color
+#     def describe(self):
+#         print(f"Car color is {self.color}")
+# myCar = Car("Blue")
+# myCar.describe()
+
+# class Animal:
+#     pass
